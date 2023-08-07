@@ -1,2 +1,2 @@
 # ad
-advertisement
+advertisement for sponsor
