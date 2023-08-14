@@ -1,38 +1,24 @@
 "language:key", "Default", "English", "Korean", "Japan", "China", "Germany", "France", "Italy", "Spain", "Portugal", "India", "Russian", "Turkey", "Taiwan", "", "", "", "", "", "", "",
 "language-total:setup", "13", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad1-1:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad1-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad1-2:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad1-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad1-1:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad1-2:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad2-1:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad2-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad2-2:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad2-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad2-1:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad2-2:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad3-1:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad3-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad3-2:setup", "https://github.com/rustbasic/ad/blob/main/200x150/ad3-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad3-1:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad3-2:click", "https://github.com/rustbasic/ad", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad4-1:setup", "https://github.com/rustbasic/ad/blob/main/150x50/ad1-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad4-2:setup", "https://github.com/rustbasic/ad/blob/main/150x50/ad1-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad4-1:click", "https://github.com/rustbasic/ad/tree/main/150x50", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-"ad4-2:click", "https://github.com/rustbasic/ad/tree/main/150x50", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"ad-reload-sec:setup", "600", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-duration-sec:setup", "10", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-frame-sec:setup", "2", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-1-1:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-1-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-1-2:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-1-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-1-1-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-1-2-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-2-1:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-2-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-2-2:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-2-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-2-1-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-2-2-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-3-1:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-3-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-3-2:setup", "https://github.com/rustbasic/ad-/blob/main/200x150/ad-3-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-3-1-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-3-2-click:setup", "https://github.com/rustbasic/ad-", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-4-1:setup", "https://github.com/rustbasic/ad-/blob/main/150x50/ad-1-1.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-4-2:setup", "https://github.com/rustbasic/ad-/blob/main/150x50/ad-1-2.jpg?raw=true", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-4-1-click:setup", "https://github.com/rustbasic/ad-/tree/main/150x50", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+"ad-4-2-click:setup", "https://github.com/rustbasic/ad-/tree/main/150x50", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
 
 
 
